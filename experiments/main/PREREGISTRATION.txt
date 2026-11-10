@@ -1,0 +1,10 @@
+Round 3 pre-registration record (written before the first paid round-3 API call)
+UTC: 2026-11-05T00:01:48Z
+Tests: 14 passed in 1.78s
+Results file present: no
+SHA-256:
+0f5492fe29d24a2e3a54ff4e097cbb977264bffd3b395b67f6fc9bd1bba5c93e *PLAN.md
+355842525de0043f997b30816022564576a5599f3cac9b985da33a1fa1a2774d *make_round3.py
+a682c7a24a6c8f1a6e2f1cd74cffabedf534f184ce0c850c40a172344f7327fd *run_round3.py
+2481f05fbcc6fae14c3ddfdaa9667328b2bd982a6dafe67f5eb9c70485e947cd *test_round3.py
+77876560da7bee0311f03fef1cff5eb2d4710c6e45b83a2703bf56ac4763fa16 *stimuli_round3.jsonl

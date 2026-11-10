@@ -1,0 +1,302 @@
+248 calls planned, 248 to go. Spent $0.00. Worst case for what is left $22.74; cap $13.00.
+step 1 R1_sonnet_medium_6k P2_G_H214_orig: I (truth K) out=993 end_turn $0.044 | total $0.04
+step 1 R1_sonnet_medium_6k P2_A_H214_orig: A (truth A) out=1151 end_turn $0.045 | total $0.09
+step 1 R1_sonnet_medium_6k P2_G_H214_neg: O (truth O) out=972 end_turn $0.044 | total $0.13
+step 1 R1_sonnet_medium_6k P2_A_H214_neg: E (truth E) out=1078 end_turn $0.044 | total $0.18
+step 1 R1_sonnet_medium_6k P2_E_H214_neg: M (truth M) out=1284 end_turn $0.047 | total $0.22
+step 1 R1_sonnet_medium_6k P2_E_H214_orig: I (truth I) out=1398 end_turn $0.048 | total $0.27
+step 1 R1_sonnet_medium_6k P2_C_H214_neg: F (truth G) out=1441 end_turn $0.048 | total $0.32
+step 1 R1_sonnet_medium_6k P2_C_H214_orig: E (truth C) out=1351 end_turn $0.047 | total $0.37
+step 1 R1_sonnet_medium_6k P2_B_H214_orig: B (truth B) out=928 end_turn $0.044 | total $0.41
+step 1 R1_sonnet_medium_6k P2_D_H214_orig: D (truth D) out=937 end_turn $0.044 | total $0.46
+step 1 R1_sonnet_medium_6k P2_D_H214_neg: H (truth H) out=974 end_turn $0.044 | total $0.50
+step 1 R1_sonnet_medium_6k P2_B_H214_neg: F (truth F) out=966 end_turn $0.044 | total $0.54
+step 1 R1_sonnet_medium_6k P2_H_H214_orig: P (truth L) out=570 end_turn $0.039 | total $0.58
+step 1 R1_sonnet_medium_6k P2_H_H214_neg: L (truth P) out=683 end_turn $0.040 | total $0.62
+step 1 R1_sonnet_medium_6k P2_F_H214_neg: M (truth N) out=1276 end_turn $0.047 | total $0.67
+step 1 R1_sonnet_medium_6k P2_F_H214_orig: I (truth J) out=1512 end_turn $0.049 | total $0.72
+step 1 R1_sonnet_medium_6k X_A0_neg: E (truth E) out=1139 end_turn $0.045 | total $0.76
+step 1 R1_sonnet_medium_6k X_A0_orig: A (truth A) out=1267 end_turn $0.047 | total $0.81
+step 1 R1_sonnet_medium_6k X_B0_orig: A (truth B) out=1156 end_turn $0.046 | total $0.86
+step 1 R1_sonnet_medium_6k X_B0_neg: E (truth F) out=812 end_turn $0.043 | total $0.90
+step 1 R1_sonnet_medium_6k X_C0_neg: G (truth G) out=843 end_turn $0.042 | total $0.94
+step 1 R1_sonnet_medium_6k X_C0_orig: C (truth C) out=982 end_turn $0.044 | total $0.98
+step 1 R1_sonnet_medium_6k X_D0_orig: D (truth D) out=824 end_turn $0.043 | total $1.03
+step 1 R1_sonnet_medium_6k X_D0_neg: H (truth H) out=987 end_turn $0.044 | total $1.07
+step 1 R1_sonnet_medium_6k X_E0_orig: I (truth I) out=1254 end_turn $0.046 | total $1.12
+step 1 R1_sonnet_medium_6k X_E0_neg: O (truth M) out=921 end_turn $0.043 | total $1.16
+step 1 R1_sonnet_medium_6k X_F0_orig: I (truth J) out=914 end_turn $0.043 | total $1.20
+step 1 R1_sonnet_medium_6k X_F0_neg: M (truth N) out=1290 end_turn $0.047 | total $1.25
+step 1 R1_sonnet_medium_6k X_G0_neg: O (truth O) out=958 end_turn $0.044 | total $1.29
+step 1 R1_sonnet_medium_6k X_G0_orig: K (truth K) out=1017 end_turn $0.045 | total $1.34
+step 1 R1_sonnet_medium_6k X_H0_orig: Q (truth L) out=723 end_turn $0.040 | total $1.38
+step 1 R1_sonnet_medium_6k X_H0_neg: L (truth P) out=569 end_turn $0.038 | total $1.42
+step 1 R1_sonnet_medium_6k X_A1_orig: A (truth A) out=1053 end_turn $0.045 | total $1.46
+step 1 R1_sonnet_medium_6k X_B1_orig: B (truth B) out=970 end_turn $0.044 | total $1.51
+step 1 R1_sonnet_medium_6k X_B1_neg: F (truth F) out=940 end_turn $0.044 | total $1.55
+step 1 R1_sonnet_medium_6k X_A1_neg: F (truth E) out=1193 end_turn $0.046 | total $1.60
+step 1 R1_sonnet_medium_6k X_D1_neg: H (truth H) out=897 end_turn $0.043 | total $1.64
+step 1 R1_sonnet_medium_6k X_D1_orig: D (truth D) out=818 end_turn $0.042 | total $1.68
+step 1 R1_sonnet_medium_6k X_C1_neg: D (truth G) out=811 end_turn $0.042 | total $1.72
+step 1 R1_sonnet_medium_6k X_C1_orig: C (truth C) out=1376 end_turn $0.047 | total $1.77
+step 1 R1_sonnet_medium_6k X_E1_neg: O (truth M) out=844 end_turn $0.042 | total $1.81
+step 1 R1_sonnet_medium_6k X_E1_orig: I (truth I) out=943 end_turn $0.043 | total $1.86
+step 1 R1_sonnet_medium_6k X_F1_orig: J (truth J) out=1117 end_turn $0.045 | total $1.90
+step 1 R1_sonnet_medium_6k X_F1_neg: M (truth N) out=1143 end_turn $0.045 | total $1.95
+step 1 R1_sonnet_medium_6k X_G1_neg: O (truth O) out=904 end_turn $0.043 | total $1.99
+step 1 R1_sonnet_medium_6k X_G1_orig: K (truth K) out=1102 end_turn $0.045 | total $2.03
+step 1 R1_sonnet_medium_6k X_H1_neg: O (truth P) out=1938 end_turn $0.053 | total $2.09
+step 1 R1_sonnet_medium_6k X_H1_orig: L (truth L) out=5682 end_turn $0.090 | total $2.18
+step 2 R1_sonnet_medium_6k T0_H214_I: J (truth I) out=797 end_turn $0.040 | total $2.22
+step 2 R1_sonnet_medium_6k T0_H214_A: D (truth A) out=1044 end_turn $0.042 | total $2.26
+step 2 R1_sonnet_medium_6k T0_H214_M: M (truth M) out=1176 end_turn $0.044 | total $2.30
+step 2 R1_sonnet_medium_6k T0_H214_E: P (truth E) out=1254 end_turn $0.044 | total $2.35
+step 2 R1_sonnet_medium_6k T1_H214_J: C (truth J) out=724 end_turn $0.039 | total $2.39
+step 2 R1_sonnet_medium_6k T1_H214_F: H (truth F) out=1098 end_turn $0.043 | total $2.43
+step 2 R1_sonnet_medium_6k T1_H214_N: H (truth N) out=1207 end_turn $0.044 | total $2.47
+step 2 R1_sonnet_medium_6k T2_H214_C: C (truth C) out=756 end_turn $0.040 | total $2.51
+step 2 R1_sonnet_medium_6k T2_H214_G: A (truth G) out=1068 end_turn $0.043 | total $2.56
+step 2 R1_sonnet_medium_6k T2_H214_O: C (truth O) out=713 end_turn $0.039 | total $2.59
+step 2 R1_sonnet_medium_6k T2_H214_K: K (truth K) out=1039 end_turn $0.042 | total $2.64
+step 2 R1_sonnet_medium_6k T3_H214_D: O (truth D) out=767 end_turn $0.040 | total $2.68
+step 2 R1_sonnet_medium_6k T3_H214_H: I (truth H) out=713 end_turn $0.039 | total $2.72
+step 2 R1_sonnet_medium_6k T3_H214_L: C (truth L) out=894 end_turn $0.041 | total $2.76
+step 2 R1_sonnet_medium_6k T1_H214_B: None (truth B) out=6000 max_tokens $0.092 | total $2.85
+step 2 R1_sonnet_medium_6k T4_H214_A: J (truth A) out=675 end_turn $0.039 | total $2.89
+step 2 R1_sonnet_medium_6k T3_H214_P: K (truth P) out=1125 end_turn $0.043 | total $2.93
+step 2 R1_sonnet_medium_6k T4_H214_E: M (truth E) out=835 end_turn $0.040 | total $2.97
+step 2 R1_sonnet_medium_6k T4_H214_N: M (truth N) out=1192 end_turn $0.044 | total $3.02
+step 2 R1_sonnet_medium_6k T4_H214_J: J (truth J) out=1448 end_turn $0.046 | total $3.06
+step 2 R1_sonnet_medium_6k T5_H214_B: C (truth B) out=1038 end_turn $0.042 | total $3.10
+step 2 R1_sonnet_medium_6k T5_H214_K: P (truth K) out=886 end_turn $0.041 | total $3.15
+step 2 R1_sonnet_medium_6k T5_H214_O: A (truth O) out=1075 end_turn $0.043 | total $3.19
+step 2 R1_sonnet_medium_6k T5_H214_F: F (truth F) out=2570 end_turn $0.058 | total $3.25
+step 2 R1_sonnet_medium_6k T6_H214_G: G (truth G) out=838 end_turn $0.040 | total $3.29
+step 2 R1_sonnet_medium_6k T6_H214_L: M (truth L) out=1090 end_turn $0.043 | total $3.33
+step 2 R1_sonnet_medium_6k T6_H214_C: C (truth C) out=3106 end_turn $0.063 | total $3.39
+step 2 R1_sonnet_medium_6k T6_H214_P: K (truth P) out=986 end_turn $0.042 | total $3.43
+step 2 R1_sonnet_medium_6k T7_H214_D: K (truth D) out=1086 end_turn $0.043 | total $3.48
+step 2 R1_sonnet_medium_6k T7_H214_H: I (truth H) out=1127 end_turn $0.044 | total $3.52
+step 2 R1_sonnet_medium_6k T7_H214_M: O (truth M) out=2821 end_turn $0.060 | total $3.58
+step 2 R1_sonnet_medium_6k T7_H214_I: I (truth I) out=4714 end_turn $0.079 | total $3.66
+step 3 R2_haiku_low_6k P2_G_H214_neg: O (truth O) out=4983 end_turn $0.004 | total $3.66
+step 3 R2_haiku_low_6k P2_A_H214_orig: None (truth A) out=6000 max_tokens $0.005 | total $3.67
+step 3 R2_haiku_low_6k P2_A_H214_neg: E (truth E) out=5537 end_turn $0.004 | total $3.67
+step 3 R2_haiku_low_6k P2_G_H214_orig: None (truth K) out=6000 max_tokens $0.005 | total $3.68
+step 3 R2_haiku_low_6k P2_C_H214_neg: None (truth G) out=6000 max_tokens $0.005 | total $3.68
+step 3 R2_haiku_low_6k P2_C_H214_orig: None (truth C) out=6000 max_tokens $0.005 | total $3.69
+step 3 R2_haiku_low_6k P2_E_H214_orig: None (truth I) out=6000 max_tokens $0.005 | total $3.69
+step 3 R2_haiku_low_6k P2_E_H214_neg: None (truth M) out=6000 max_tokens $0.005 | total $3.70
+step 3 R2_haiku_low_6k P2_D_H214_orig: D (truth D) out=2587 end_turn $0.003 | total $3.70
+step 3 R2_haiku_low_6k P2_B_H214_neg: F (truth F) out=4156 end_turn $0.004 | total $3.70
+step 3 R2_haiku_low_6k P2_H_H214_orig: Q (truth L) out=1452 end_turn $0.002 | total $3.71
+step 3 R2_haiku_low_6k P2_B_H214_orig: B (truth B) out=5290 end_turn $0.004 | total $3.71
+step 3 R2_haiku_low_6k P2_D_H214_neg: None (truth H) out=6000 max_tokens $0.005 | total $3.71
+step 3 R2_haiku_low_6k P2_H_H214_neg: None (truth P) out=6000 max_tokens $0.005 | total $3.72
+step 3 R2_haiku_low_6k P2_F_H214_orig: None (truth J) out=6000 max_tokens $0.005 | total $3.72
+step 3 R2_haiku_low_6k P2_F_H214_neg: None (truth N) out=6000 max_tokens $0.005 | total $3.73
+step 4 R2_haiku_medium_6k P2_G_H214_neg: None (truth O) out=6000 max_tokens $0.005 | total $3.73
+step 4 R2_haiku_medium_6k P2_A_H214_orig: None (truth A) out=6000 max_tokens $0.005 | total $3.74
+step 4 R2_haiku_medium_6k P2_A_H214_neg: None (truth E) out=6000 max_tokens $0.005 | total $3.74
+step 4 R2_haiku_medium_6k P2_G_H214_orig: None (truth K) out=6000 max_tokens $0.005 | total $3.75
+step 4 R2_haiku_medium_6k P2_C_H214_neg: None (truth G) out=6000 max_tokens $0.005 | total $3.75
+step 4 R2_haiku_medium_6k P2_E_H214_orig: None (truth I) out=6000 max_tokens $0.005 | total $3.76
+step 4 R2_haiku_medium_6k P2_C_H214_orig: None (truth C) out=6000 max_tokens $0.005 | total $3.76
+step 4 R2_haiku_medium_6k P2_E_H214_neg: None (truth M) out=6000 max_tokens $0.005 | total $3.77
+step 4 R2_haiku_medium_6k P2_B_H214_neg: None (truth F) out=6000 max_tokens $0.005 | total $3.77
+step 4 R2_haiku_medium_6k P2_D_H214_neg: None (truth H) out=6000 max_tokens $0.005 | total $3.78
+step 4 R2_haiku_medium_6k P2_B_H214_orig: None (truth B) out=6000 max_tokens $0.005 | total $3.78
+step 4 R2_haiku_medium_6k P2_D_H214_orig: None (truth D) out=6000 max_tokens $0.005 | total $3.79
+step 4 R2_haiku_medium_6k P2_H_H214_orig: None (truth L) out=6000 max_tokens $0.005 | total $3.79
+step 4 R2_haiku_medium_6k P2_F_H214_orig: None (truth J) out=6000 max_tokens $0.005 | total $3.79
+step 4 R2_haiku_medium_6k P2_H_H214_neg: None (truth P) out=6000 max_tokens $0.005 | total $3.80
+step 4 R2_haiku_medium_6k P2_F_H214_neg: None (truth N) out=6000 max_tokens $0.005 | total $3.80
+step 5 R3_sonnet_medium_6k_warned P2_G_H214_neg: O (truth O) out=919 end_turn $0.044 | total $3.85
+step 5 R3_sonnet_medium_6k_warned P2_G_H214_orig: K (truth K) out=917 end_turn $0.044 | total $3.89
+step 5 R3_sonnet_medium_6k_warned P2_A_H214_orig: A (truth A) out=1018 end_turn $0.044 | total $3.94
+step 5 R3_sonnet_medium_6k_warned P2_A_H214_neg: E (truth E) out=1138 end_turn $0.045 | total $3.98
+step 5 R3_sonnet_medium_6k_warned P2_E_H214_orig: I (truth I) out=1116 end_turn $0.045 | total $4.03
+step 5 R3_sonnet_medium_6k_warned P2_C_H214_neg: G (truth G) out=751 end_turn $0.041 | total $4.07
+step 5 R3_sonnet_medium_6k_warned P2_E_H214_neg: M (truth M) out=1416 end_turn $0.048 | total $4.12
+step 5 R3_sonnet_medium_6k_warned P2_C_H214_orig: C (truth C) out=1002 end_turn $0.044 | total $4.16
+step 5 R3_sonnet_medium_6k_warned P2_B_H214_orig: B (truth B) out=787 end_turn $0.042 | total $4.20
+step 5 R3_sonnet_medium_6k_warned P2_B_H214_neg: F (truth F) out=870 end_turn $0.043 | total $4.24
+step 5 R3_sonnet_medium_6k_warned P2_D_H214_orig: D (truth D) out=840 end_turn $0.043 | total $4.29
+step 5 R3_sonnet_medium_6k_warned P2_D_H214_neg: H (truth H) out=1157 end_turn $0.046 | total $4.33
+step 5 R3_sonnet_medium_6k_warned P2_H_H214_orig: L (truth L) out=449 end_turn $0.037 | total $4.37
+step 5 R3_sonnet_medium_6k_warned P2_H_H214_neg: Q (truth P) out=620 end_turn $0.039 | total $4.41
+step 5 R3_sonnet_medium_6k_warned P2_F_H214_orig: I (truth J) out=975 end_turn $0.044 | total $4.45
+step 5 R3_sonnet_medium_6k_warned P2_F_H214_neg: N (truth N) out=1110 end_turn $0.045 | total $4.50
+step 5 R3_sonnet_medium_6k_warned X_A0_orig: B (truth A) out=1070 end_turn $0.045 | total $4.54
+step 5 R3_sonnet_medium_6k_warned X_A0_neg: F (truth E) out=930 end_turn $0.043 | total $4.59
+step 5 R3_sonnet_medium_6k_warned X_B0_orig: B (truth B) out=760 end_turn $0.042 | total $4.63
+step 5 R3_sonnet_medium_6k_warned X_B0_neg: F (truth F) out=836 end_turn $0.043 | total $4.67
+step 5 R3_sonnet_medium_6k_warned X_C0_neg: G (truth G) out=680 end_turn $0.041 | total $4.71
+step 5 R3_sonnet_medium_6k_warned X_D0_orig: D (truth D) out=784 end_turn $0.042 | total $4.76
+step 5 R3_sonnet_medium_6k_warned X_D0_neg: H (truth H) out=1027 end_turn $0.045 | total $4.80
+step 5 R3_sonnet_medium_6k_warned X_E0_orig: I (truth I) out=1167 end_turn $0.046 | total $4.85
+step 5 R3_sonnet_medium_6k_warned X_E0_neg: M (truth M) out=1088 end_turn $0.045 | total $4.89
+step 5 R3_sonnet_medium_6k_warned X_F0_orig: I (truth J) out=1015 end_turn $0.044 | total $4.94
+step 5 R3_sonnet_medium_6k_warned X_G0_orig: K (truth K) out=1031 end_turn $0.045 | total $4.98
+step 5 R3_sonnet_medium_6k_warned X_F0_neg: M (truth N) out=1140 end_turn $0.045 | total $5.03
+step 5 R3_sonnet_medium_6k_warned X_C0_orig: None (truth C) out=6000 max_tokens $0.094 | total $5.12
+step 5 R3_sonnet_medium_6k_warned X_H0_neg: L (truth P) out=702 end_turn $0.040 | total $5.16
+step 5 R3_sonnet_medium_6k_warned X_H0_orig: N (truth L) out=1076 end_turn $0.044 | total $5.20
+step 5 R3_sonnet_medium_6k_warned X_G0_neg: O (truth O) out=2255 end_turn $0.057 | total $5.26
+step 5 R3_sonnet_medium_6k_warned X_A1_neg: F (truth E) out=866 end_turn $0.043 | total $5.30
+step 5 R3_sonnet_medium_6k_warned X_A1_orig: B (truth A) out=1106 end_turn $0.045 | total $5.35
+step 5 R3_sonnet_medium_6k_warned X_B1_orig: B (truth B) out=1219 end_turn $0.047 | total $5.39
+step 5 R3_sonnet_medium_6k_warned X_B1_neg: F (truth F) out=1143 end_turn $0.046 | total $5.44
+step 5 R3_sonnet_medium_6k_warned X_C1_neg: C (truth G) out=828 end_turn $0.042 | total $5.48
+step 5 R3_sonnet_medium_6k_warned X_C1_orig: B (truth C) out=1020 end_turn $0.044 | total $5.53
+step 5 R3_sonnet_medium_6k_warned X_D1_orig: D (truth D) out=883 end_turn $0.043 | total $5.61
+step 5 R3_sonnet_medium_6k_warned X_D1_neg: H (truth H) out=1048 end_turn $0.045 | total $5.61
+step 5 R3_sonnet_medium_6k_warned X_E1_orig: I (truth I) out=1251 end_turn $0.047 | total $5.66
+step 5 R3_sonnet_medium_6k_warned X_E1_neg: M (truth M) out=1292 end_turn $0.047 | total $5.71
+step 5 R3_sonnet_medium_6k_warned X_F1_neg: M (truth N) out=1120 end_turn $0.045 | total $5.75
+step 5 R3_sonnet_medium_6k_warned X_F1_orig: J (truth J) out=1253 end_turn $0.047 | total $5.80
+step 5 R3_sonnet_medium_6k_warned X_G1_neg: O (truth O) out=880 end_turn $0.043 | total $5.84
+step 5 R3_sonnet_medium_6k_warned X_G1_orig: K (truth K) out=1083 end_turn $0.045 | total $5.89
+step 5 R3_sonnet_medium_6k_warned X_H1_neg: Q (truth P) out=1072 end_turn $0.044 | total $5.93
+step 5 R3_sonnet_medium_6k_warned X_H1_orig: L (truth L) out=1633 end_turn $0.050 | total $5.98
+step 6 R1_sonnet_medium_6k CUE_C0_rev_neg: A (truth G) out=1252 end_turn $0.046 | total $6.03
+step 6 R1_sonnet_medium_6k CUE_C1_rev_orig: C (truth C) out=1303 end_turn $0.047 | total $6.07
+step 6 R1_sonnet_medium_6k CUE_C1_rev_neg: B (truth G) out=1373 end_turn $0.047 | total $6.12
+step 6 R1_sonnet_medium_6k CUE_C0_rev_orig: E (truth C) out=1424 end_turn $0.048 | total $6.17
+step 6 R1_sonnet_medium_6k CUE_C2_rev_neg: C (truth G) out=648 end_turn $0.040 | total $6.21
+step 6 R1_sonnet_medium_6k CUE_C2_rev_orig: B (truth C) out=949 end_turn $0.043 | total $6.25
+step 6 R1_sonnet_medium_6k CUE_C0_norm_orig: B (truth C) out=1092 end_turn $0.044 | total $6.30
+step 6 R1_sonnet_medium_6k CUE_C0_norm_neg: Q (truth G) out=1503 end_turn $0.048 | total $6.34
+step 6 R1_sonnet_medium_6k CUE_C1_norm_neg: G (truth G) out=863 end_turn $0.042 | total $6.39
+step 6 R1_sonnet_medium_6k CUE_C1_norm_orig: G (truth C) out=1220 end_turn $0.045 | total $6.43
+step 6 R1_sonnet_medium_6k CUE_C2_norm_orig: C (truth C) out=863 end_turn $0.042 | total $6.47
+step 6 R1_sonnet_medium_6k CUE_C2_norm_neg: B (truth G) out=893 end_turn $0.042 | total $6.52
+step 6 R1_sonnet_medium_6k CUE_L0_rev_neg: L (truth P) out=597 end_turn $0.039 | total $6.55
+step 6 R1_sonnet_medium_6k CUE_L0_rev_orig: N (truth L) out=1066 end_turn $0.043 | total $6.60
+step 6 R1_sonnet_medium_6k CUE_L1_rev_neg: N (truth P) out=1087 end_turn $0.044 | total $6.64
+step 6 R1_sonnet_medium_6k CUE_L2_rev_orig: P (truth L) out=842 end_turn $0.041 | total $6.68
+step 6 R1_sonnet_medium_6k CUE_L2_rev_neg: I (truth P) out=1088 end_turn $0.044 | total $6.73
+step 6 R1_sonnet_medium_6k CUE_L1_norm_orig: Q (truth L) out=975 end_turn $0.043 | total $6.77
+step 6 R1_sonnet_medium_6k CUE_L1_norm_neg: P (truth P) out=935 end_turn $0.042 | total $6.81
+step 6 R1_sonnet_medium_6k CUE_L2_norm_orig: K (truth L) out=869 end_turn $0.042 | total $6.85
+step 6 R1_sonnet_medium_6k CUE_L1_rev_orig: None (truth L) out=6000 max_tokens $0.093 | total $6.95
+step 6 R1_sonnet_medium_6k CUE_L0_norm_neg: O (truth P) out=4735 end_turn $0.081 | total $7.03
+step 6 R1_sonnet_medium_6k CUE_L0_norm_orig: None (truth L) out=6000 max_tokens $0.093 | total $7.12
+step 6 R1_sonnet_medium_6k CUE_L2_norm_neg: O (truth P) out=3225 end_turn $0.065 | total $7.19
+step 7 R1_sonnet_medium_6k NAT_F_neg: B (truth B) out=904 end_turn $0.044 | total $7.23
+step 7 R1_sonnet_medium_6k NAT_E_neg: B (truth A) out=1068 end_turn $0.045 | total $7.27
+step 7 R1_sonnet_medium_6k NAT_F_orig: F (truth F) out=1110 end_turn $0.045 | total $7.32
+step 7 R1_sonnet_medium_6k NAT_E_orig: E (truth E) out=1211 end_turn $0.046 | total $7.37
+step 7 R1_sonnet_medium_6k NAT_G_orig: C (truth G) out=902 end_turn $0.042 | total $7.41
+step 7 R1_sonnet_medium_6k NAT_H_neg: D (truth D) out=788 end_turn $0.042 | total $7.45
+step 7 R1_sonnet_medium_6k NAT_G_neg: B (truth C) out=979 end_turn $0.043 | total $7.49
+step 7 R1_sonnet_medium_6k NAT_H_orig: H (truth H) out=1020 end_turn $0.045 | total $7.54
+step 7 R1_sonnet_medium_6k NAT_M_orig: M (truth M) out=1205 end_turn $0.046 | total $7.58
+step 7 R1_sonnet_medium_6k NAT_N_orig: M (truth N) out=1175 end_turn $0.045 | total $7.63
+step 7 R1_sonnet_medium_6k NAT_M_neg: I (truth I) out=1333 end_turn $0.047 | total $7.68
+step 7 R1_sonnet_medium_6k NAT_N_neg: I (truth J) out=1160 end_turn $0.045 | total $7.72
+step 7 R1_sonnet_medium_6k NAT_O_orig: O (truth O) out=806 end_turn $0.042 | total $7.76
+step 7 R1_sonnet_medium_6k NAT_O_neg: K (truth K) out=947 end_turn $0.044 | total $7.81
+step 7 R1_sonnet_medium_6k NAT_P_neg: L (truth L) out=1215 end_turn $0.045 | total $7.85
+step 7 R1_sonnet_medium_6k NAT_P_orig: None (truth P) out=6000 max_tokens $0.093 | total $7.95
+step 8 R3_sonnet_medium_6k_warned T0_H214_I: C (truth I) out=667 end_turn $0.039 | total $7.99
+step 8 R3_sonnet_medium_6k_warned T0_H214_M: O (truth M) out=895 end_turn $0.041 | total $8.03
+step 8 R3_sonnet_medium_6k_warned T0_H214_A: C (truth A) out=1221 end_turn $0.044 | total $8.07
+step 8 R3_sonnet_medium_6k_warned T0_H214_E: G (truth E) out=1157 end_turn $0.043 | total $8.11
+step 8 R3_sonnet_medium_6k_warned T1_H214_B: K (truth B) out=893 end_turn $0.041 | total $8.15
+step 8 R3_sonnet_medium_6k_warned T1_H214_F: D (truth F) out=684 end_turn $0.039 | total $8.19
+step 8 R3_sonnet_medium_6k_warned T1_H214_J: K (truth J) out=870 end_turn $0.041 | total $8.23
+step 8 R3_sonnet_medium_6k_warned T1_H214_N: E (truth N) out=1163 end_turn $0.044 | total $8.28
+step 8 R3_sonnet_medium_6k_warned T2_H214_C: E (truth C) out=948 end_turn $0.042 | total $8.32
+step 8 R3_sonnet_medium_6k_warned T2_H214_G: A (truth G) out=837 end_turn $0.040 | total $8.36
+step 8 R3_sonnet_medium_6k_warned T2_H214_K: K (truth K) out=916 end_turn $0.041 | total $8.40
+step 8 R3_sonnet_medium_6k_warned T2_H214_O: C (truth O) out=904 end_turn $0.041 | total $8.44
+step 8 R3_sonnet_medium_6k_warned T3_H214_H: B (truth H) out=1020 end_turn $0.042 | total $8.49
+step 8 R3_sonnet_medium_6k_warned T3_H214_D: L (truth D) out=916 end_turn $0.041 | total $8.53
+step 8 R3_sonnet_medium_6k_warned T3_H214_L: K (truth L) out=911 end_turn $0.041 | total $8.57
+step 8 R3_sonnet_medium_6k_warned T3_H214_P: O (truth P) out=705 end_turn $0.039 | total $8.61
+step 9 R4_opus_medium_8k P2_G_H214_orig: K (truth K) out=5153 end_turn $0.172 | total $8.78
+step 9 R4_opus_medium_8k P2_G_H214_neg: None (truth O) out=8000 max_tokens $0.229 | total $9.01
+step 9 R4_opus_medium_8k P2_A_H214_neg: None (truth E) out=8000 max_tokens $0.227 | total $9.23
+step 9 R4_opus_medium_8k P2_A_H214_orig: None (truth A) out=8000 max_tokens $0.228 | total $9.46
+step 9 R4_opus_medium_8k P2_C_H214_orig: C (truth C) out=1418 end_turn $0.095 | total $9.56
+step 9 R4_opus_medium_8k P2_C_H214_neg: G (truth G) out=2922 end_turn $0.125 | total $9.68
+step 9 R4_opus_medium_8k P2_B_H214_orig: B (truth B) out=1535 end_turn $0.100 | total $9.78
+step 9 R4_opus_medium_8k P2_E_H214_orig: None (truth I) out=8000 max_tokens $0.228 | total $10.01
+step 9 R4_opus_medium_8k P2_B_H214_neg: F (truth F) out=1826 end_turn $0.105 | total $10.12
+step 9 R4_opus_medium_8k P2_E_H214_neg: None (truth M) out=8000 max_tokens $0.228 | total $10.35
+step 9 R4_opus_medium_8k P2_D_H214_neg: H (truth H) out=4501 end_turn $0.159 | total $10.50
+step 9 R4_opus_medium_8k P2_D_H214_orig: None (truth D) out=8000 max_tokens $0.229 | total $10.73
+step 9 R4_opus_medium_8k P2_H_H214_orig: None (truth L) out=8000 max_tokens $0.226 | total $10.96
+step 9 R4_opus_medium_8k P2_H_H214_neg: None (truth P) out=8000 max_tokens $0.226 | total $11.18
+step 9 R4_opus_medium_8k P2_F_H214_orig: None (truth J) out=8000 max_tokens $0.228 | total $11.41
+step 9 R4_opus_medium_8k P2_F_H214_neg: None (truth N) out=8000 max_tokens $0.228 | total $11.64
+step 10 R1_sonnet_medium_6k P2_E_H36_orig: I (truth I) out=1363 end_turn $0.020 | total $11.66
+step 10 R1_sonnet_medium_6k P2_E_H36_neg: M (truth M) out=2126 end_turn $0.028 | total $11.69
+step 10 R1_sonnet_medium_6k P2_G_H36_orig: K (truth K) out=1210 end_turn $0.019 | total $11.71
+step 10 R1_sonnet_medium_6k P2_C_H36_neg: G (truth G) out=2718 end_turn $0.034 | total $11.74
+step 10 R1_sonnet_medium_6k P2_G_H36_neg: O (truth O) out=1220 end_turn $0.019 | total $11.76
+step 10 R1_sonnet_medium_6k P2_C_H36_orig: C (truth C) out=3693 end_turn $0.044 | total $11.80
+step 10 R1_sonnet_medium_6k P2_A_H36_neg: E (truth E) out=1743 end_turn $0.024 | total $11.83
+step 10 R1_sonnet_medium_6k P2_D_H36_neg: H (truth H) out=1933 end_turn $0.026 | total $11.85
+step 10 R1_sonnet_medium_6k P2_A_H36_orig: A (truth A) out=2346 end_turn $0.030 | total $11.88
+step 10 R1_sonnet_medium_6k P2_D_H36_orig: D (truth D) out=2475 end_turn $0.031 | total $11.92
+step 10 R1_sonnet_medium_6k P2_H_H36_orig: L (truth L) out=2930 end_turn $0.036 | total $11.95
+step 10 R1_sonnet_medium_6k P2_H_H36_neg: P (truth P) out=2597 end_turn $0.033 | total $11.98
+step 10 R1_sonnet_medium_6k P2_B_H36_orig: B (truth B) out=1115 end_turn $0.018 | total $12.00
+step 10 R1_sonnet_medium_6k P2_B_H36_neg: F (truth F) out=753 end_turn $0.014 | total $12.02
+step 10 R1_sonnet_medium_6k P2_F_H36_neg: N (truth N) out=3104 end_turn $0.038 | total $12.05
+step 10 R1_sonnet_medium_6k P2_F_H36_orig: J (truth J) out=3576 end_turn $0.042 | total $12.10
+
+=== Round 3: 248 calls, $12.10 spent ===
+run                          set        ver         correct  polarity ok  group ok   Q trunc mean out    max
+R1_sonnet_medium_6k          CUE-214    neg      2/12 (17%)   5/12 (42%)        11   1     0     1517   4735
+R1_sonnet_medium_6k          CUE-214    orig     2/12 (17%)   5/12 (42%)         9   1     2     1884   6000
+R1_sonnet_medium_6k          NATIVE-214 neg       5/8 (62%)   8/8 (100%)         8   0     0     1049   1333
+R1_sonnet_medium_6k          NATIVE-214 orig      5/8 (62%)    6/8 (75%)         7   0     1     1679   6000
+R1_sonnet_medium_6k          NEG-214    neg     12/24 (50%)  21/24 (88%)        24   0     0     1036   1938
+R1_sonnet_medium_6k          NEG-214    orig    17/24 (71%)  21/24 (88%)        23   1     0     1252   5682
+R1_sonnet_medium_6k          NEG-36     neg      8/8 (100%)   8/8 (100%)         8   0     0     2024   3104
+R1_sonnet_medium_6k          NEG-36     orig     8/8 (100%)   8/8 (100%)         8   0     0     2338   3693
+R1_sonnet_medium_6k          TRUNK-214  trunk    8/32 (25%)  21/32 (66%)        19   0     1     1433   6000
+R2_haiku_low_6k              NEG-214    neg       3/8 (38%)    3/8 (38%)         3   0     5     5584   6000
+R2_haiku_low_6k              NEG-214    orig      2/8 (25%)    2/8 (25%)         2   1     5     4916   6000
+R2_haiku_medium_6k           NEG-214    neg        0/8 (0%)     0/8 (0%)         0   0     8     6000   6000
+R2_haiku_medium_6k           NEG-214    orig       0/8 (0%)     0/8 (0%)         0   0     8     6000   6000
+R3_sonnet_medium_6k_warned   NEG-214    neg     16/24 (67%)  20/24 (83%)        22   2     0     1037   2255
+R3_sonnet_medium_6k_warned   NEG-214    orig    17/24 (71%)  22/24 (92%)        23   0     1     1227   6000
+R3_sonnet_medium_6k_warned   TRUNK-214  trunk     1/16 (6%)  11/16 (69%)        11   0     0      919   1221
+R4_opus_medium_8k            NEG-214    neg       3/8 (38%)    3/8 (38%)         3   0     5     6156   8000
+R4_opus_medium_8k            NEG-214    orig      3/8 (38%)    3/8 (38%)         3   0     5     6013   8000
+
+D1 (Sonnet, NEG-214, 24 pairs): originals 17/24 (71%), negated 12/24 (50%), both right 11/24 (46%), negated named as the original 2/24 (8%).
+    Polarity sensitivity P(plain|orig) - P(plain|neg) = +75% (90% CI [+47%, +89%]; b=20, c=2, one-sided McNemar p=0.0001)
+D1 verdict: POLARITY-SENSITIVE: uses the output layer for polarity
+D1-cue (Sonnet, XOR/parity networks): polarity right when the bias cue points the right way 11/18 (61%), the wrong way 5/18 (28%); gap +33%, one-sided Fisher p=0.0461 -> BIAS-SIGN SHORTCUT
+D1-native (Sonnet, networks trained on NOT f, 8): originals right 5/8 (62%), answered a plain option 1/8 (12%); their negations (plain f) right 5/8 (62%)
+    D1-native polarity: originals 5/8 (62%), negated 5/8 (62%), both right 4/8 (50%), negated named as the original 0/8 (0%).
+    Polarity sensitivity P(plain|orig) - P(plain|neg) = -88% (90% CI [-97%, -40%]; b=0, c=7, one-sided McNemar p=1.0000)
+
+D2 (Sonnet, TRUNK-214, 8 trunks x 4): exact 8/32 (25%) (a first-layer-only reader is capped at 25% per trunk); per trunk 25%, 0%, 50%, 0%, 25%, 25%, 50%, 25%; sign-flip test over trunks p=0.6875
+    input group right 19/32 (59%) (chance 50%); pair right given group 8/19 (42%) (chance 25%); polarity right given pair 8/8 (100%) (chance 50%); distinct answers per trunk 3.4 of 4
+D2 verdict: NO EVIDENCE it reads the output layer when the first layer can't tell
+    Descriptive (scale-confounded): originals 17/24 (71%) vs trunk 8/32 (25%), one-sided Fisher p=0.0007
+
+D3 (Sonnet, NEG-214 negated, 24): unwarned 12/24 (50%), warned 16/24 (67%); gain +17% (90% CI [-0%, +34%]). Warned originals: 17/24 (71%) vs unwarned 17/24 (71%) (drop +0%)
+D3 verdict: INCONCLUSIVE
+    D3 polarity under the warning: originals 17/24 (71%), negated 16/24 (67%), both right 14/24 (58%), negated named as the original 2/24 (8%).
+    Polarity sensitivity P(plain|orig) - P(plain|neg) = +83% (90% CI [+59%, +93%]; b=21, c=1, one-sided McNemar p=0.0000)
+    Warned trunk (T0-T3, 16): unwarned 3/16 (19%), warned 1/16 (6%)
+
+D4 Opus (NEG-214, Pilot 2 networks): originals 3/8 (38%), negated 3/8 (38%), both right 2/8 (25%), negated named as the original 0/8 (0%).
+    Polarity sensitivity P(plain|orig) - P(plain|neg) = +38% (90% CI [+3%, +65%]; b=3, c=0, one-sided McNemar p=0.1250)
+D5 R2_haiku_low_6k: truncated 62%, originals correct 2/8 -> NOT USABLE above 505 weights
+D5 R2_haiku_medium_6k: truncated 100%, originals correct 0/8 -> NOT USABLE above 505 weights
+D6 (Sonnet, NEG-36, 505 weights, 8 pairs): originals 8/8 (100%), negated 8/8 (100%), both right 8/8 (100%), negated named as the original 0/8 (0%).
+    Polarity sensitivity P(plain|orig) - P(plain|neg) = +100% (90% CI [+49%, +100%]; b=8, c=0, one-sided McNemar p=0.0039)
+
+Plain-option share of Sonnet's trunk answers (half the true labels are plain): 19/31 (61%)
+Replies that mention the output bias or the all-zero input (Sonnet, orig/neg stimuli): orig 45/76 (59%), neg 54/76 (71%)
+'None' (Q) answers on intact networks, all runs: 3/148 (2%)
+Model IDs returned: ['claude-haiku-5-5', 'claude-opus-5-5', 'claude-sonnet-5-5']
+exit 0

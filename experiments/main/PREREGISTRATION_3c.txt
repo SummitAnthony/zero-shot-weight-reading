@@ -1,0 +1,6 @@
+Round 3c pre-registration record (after round 3b's results, before the first round-3c API call)
+UTC: 2026-11-05T00:41:34Z
+Round-3c results file present: no
+bd313225ead358991dbbde8efa84aded9655aea4426c88f901eb928289d7f46d *PLAN_3c.md
+a3718ea0b4ca9a02110e9843cd5e3ede25b994ba2d718249a7a4c60b08785950 *run_round3c.py
+2e72fd12a374830019812a011a0b21f5ab59fcc33695342371121057d010baf7 *results_round3b.jsonl

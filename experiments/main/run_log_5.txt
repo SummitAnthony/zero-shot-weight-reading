@@ -1,0 +1,175 @@
+148 calls planned, 148 to go. Spent $0.00. Worst case for what is left $26.61; cap $15.00.
+step 1 R6_sonnet_medium_6k MC_A0_neg: F (truth E) out=797 end_turn $0.042 | total $0.04
+step 1 R6_sonnet_medium_6k MC_A1_orig: B (truth A) out=1022 end_turn $0.044 | total $0.09
+step 1 R6_sonnet_medium_6k MC_A0_orig: A (truth A) out=1234 end_turn $0.047 | total $0.13
+step 1 R6_sonnet_medium_6k MC_A1_neg: A (truth E) out=1267 end_turn $0.047 | total $0.18
+step 1 R6_sonnet_medium_6k MC_B0_orig: B (truth B) out=773 end_turn $0.042 | total $0.22
+step 1 R6_sonnet_medium_6k MC_B0_neg: F (truth F) out=786 end_turn $0.042 | total $0.26
+step 1 R6_sonnet_medium_6k MC_B1_orig: B (truth B) out=865 end_turn $0.043 | total $0.31
+step 1 R6_sonnet_medium_6k MC_B1_neg: B (truth F) out=942 end_turn $0.044 | total $0.35
+step 1 R6_sonnet_medium_6k MC_D0_orig: D (truth D) out=831 end_turn $0.043 | total $0.39
+step 1 R6_sonnet_medium_6k MC_D0_neg: H (truth H) out=983 end_turn $0.044 | total $0.44
+step 1 R6_sonnet_medium_6k MC_D1_orig: D (truth D) out=830 end_turn $0.043 | total $0.48
+step 1 R6_sonnet_medium_6k MC_D1_neg: H (truth H) out=1028 end_turn $0.045 | total $0.53
+step 1 R6_sonnet_medium_6k MC_I0_orig: I (truth I) out=1044 end_turn $0.044 | total $0.57
+step 1 R6_sonnet_medium_6k MC_I1_orig: I (truth I) out=963 end_turn $0.044 | total $0.61
+step 1 R6_sonnet_medium_6k MC_I0_neg: O (truth M) out=1251 end_turn $0.046 | total $0.66
+step 1 R6_sonnet_medium_6k MC_I1_neg: M (truth M) out=1214 end_turn $0.046 | total $0.71
+step 1 R6_sonnet_medium_6k MC_J0_orig: I (truth J) out=1120 end_turn $0.045 | total $0.75
+step 1 R6_sonnet_medium_6k MC_J0_neg: O (truth N) out=1344 end_turn $0.047 | total $0.80
+step 1 R6_sonnet_medium_6k MC_J1_orig: I (truth J) out=1129 end_turn $0.045 | total $0.84
+step 1 R6_sonnet_medium_6k MC_K0_orig: K (truth K) out=963 end_turn $0.044 | total $0.89
+step 1 R6_sonnet_medium_6k MC_J1_neg: M (truth N) out=1154 end_turn $0.045 | total $0.93
+step 1 R6_sonnet_medium_6k MC_K0_neg: O (truth O) out=843 end_turn $0.043 | total $0.98
+step 1 R6_sonnet_medium_6k MC_K1_orig: K (truth K) out=967 end_turn $0.044 | total $1.02
+step 1 R6_sonnet_medium_6k MC_K1_neg: O (truth O) out=1274 end_turn $0.047 | total $1.07
+step 2 R6_opus_low_6k MC_A0_orig: A (truth A) out=1118 end_turn $0.091 | total $1.16
+step 2 R6_opus_low_6k MC_A1_orig: A (truth A) out=1474 end_turn $0.098 | total $1.25
+step 2 R6_opus_low_6k MC_A0_neg: E (truth E) out=1548 end_turn $0.099 | total $1.35
+step 2 R6_opus_low_6k MC_A1_neg: F (truth E) out=1473 end_turn $0.098 | total $1.45
+step 2 R6_opus_low_6k MC_B0_orig: B (truth B) out=992 end_turn $0.089 | total $1.54
+step 2 R6_opus_low_6k MC_B0_neg: F (truth F) out=1179 end_turn $0.092 | total $1.63
+step 2 R6_opus_low_6k MC_B1_orig: B (truth B) out=971 end_turn $0.088 | total $1.72
+step 2 R6_opus_low_6k MC_B1_neg: F (truth F) out=1077 end_turn $0.090 | total $1.81
+step 2 R6_opus_low_6k MC_D0_orig: D (truth D) out=965 end_turn $0.088 | total $1.90
+step 2 R6_opus_low_6k MC_D1_orig: D (truth D) out=1334 end_turn $0.096 | total $2.00
+step 2 R6_opus_low_6k MC_D0_neg: H (truth H) out=1703 end_turn $0.103 | total $2.10
+step 2 R6_opus_low_6k MC_D1_neg: H (truth H) out=1740 end_turn $0.104 | total $2.20
+step 2 R6_opus_low_6k MC_I0_orig: I (truth I) out=2133 end_turn $0.110 | total $2.31
+step 2 R6_opus_low_6k MC_I1_orig: I (truth I) out=1676 end_turn $0.101 | total $2.41
+step 2 R6_opus_low_6k MC_I1_neg: M (truth M) out=1443 end_turn $0.097 | total $2.51
+step 2 R6_opus_low_6k MC_I0_neg: M (truth M) out=2573 end_turn $0.119 | total $2.63
+step 2 R6_opus_low_6k MC_J0_neg: M (truth N) out=951 end_turn $0.086 | total $2.72
+step 2 R6_opus_low_6k MC_J0_orig: I (truth J) out=2324 end_turn $0.114 | total $2.83
+step 2 R6_opus_low_6k MC_J1_orig: I (truth J) out=1239 end_turn $0.092 | total $2.92
+step 2 R6_opus_low_6k MC_J1_neg: M (truth N) out=1397 end_turn $0.096 | total $3.02
+step 2 R6_opus_low_6k MC_K0_orig: K (truth K) out=1112 end_turn $0.091 | total $3.11
+step 2 R6_opus_low_6k MC_K1_neg: O (truth O) out=1232 end_turn $0.093 | total $3.20
+step 2 R6_opus_low_6k MC_K1_orig: K (truth K) out=1825 end_turn $0.105 | total $3.31
+step 2 R6_opus_low_6k MC_K0_neg: O (truth O) out=1831 end_turn $0.105 | total $3.41
+step 3 R6_opus_low_6k P2_G_H214_orig: K (truth K) out=983 end_turn $0.088 | total $3.50
+step 3 R6_opus_low_6k P2_A_H214_orig: B (truth A) out=1055 end_turn $0.089 | total $3.59
+step 3 R6_opus_low_6k P2_A_H214_neg: E (truth E) out=1463 end_turn $0.097 | total $3.69
+step 3 R6_opus_low_6k P2_G_H214_neg: O (truth O) out=1656 end_turn $0.102 | total $3.79
+step 3 R6_opus_low_6k P2_B_H214_orig: B (truth B) out=956 end_turn $0.088 | total $3.88
+step 3 R6_opus_low_6k P2_B_H214_neg: F (truth F) out=1052 end_turn $0.090 | total $3.97
+step 3 R6_opus_low_6k P2_E_H214_orig: I (truth I) out=2001 end_turn $0.108 | total $4.07
+step 3 R6_opus_low_6k P2_E_H214_neg: M (truth M) out=1822 end_turn $0.105 | total $4.18
+step 3 R6_opus_low_6k P2_D_H214_orig: D (truth D) out=1431 end_turn $0.098 | total $4.28
+step 3 R6_opus_low_6k P2_F_H214_orig: I (truth J) out=1259 end_turn $0.093 | total $4.37
+step 3 R6_opus_low_6k P2_D_H214_neg: H (truth H) out=1878 end_turn $0.106 | total $4.48
+step 3 R6_opus_low_6k P2_F_H214_neg: M (truth N) out=1986 end_turn $0.107 | total $4.58
+step 3 R6_opus_low_6k X_B0_orig: B (truth B) out=1049 end_turn $0.090 | total $4.67
+step 3 R6_opus_low_6k X_A0_orig: B (truth A) out=1558 end_turn $0.099 | total $4.77
+step 3 R6_opus_low_6k X_B0_neg: F (truth F) out=859 end_turn $0.086 | total $4.86
+step 3 R6_opus_low_6k X_A0_neg: E (truth E) out=2628 end_turn $0.121 | total $4.98
+step 3 R6_opus_low_6k X_D0_neg: H (truth H) out=1324 end_turn $0.095 | total $5.07
+step 3 R6_opus_low_6k X_D0_orig: D (truth D) out=1528 end_turn $0.099 | total $5.17
+step 3 R6_opus_low_6k X_E0_orig: I (truth I) out=1782 end_turn $0.103 | total $5.28
+step 3 R6_opus_low_6k X_F0_neg: O (truth N) out=1104 end_turn $0.089 | total $5.37
+step 3 R6_opus_low_6k X_F0_orig: I (truth J) out=1582 end_turn $0.099 | total $5.47
+step 3 R6_opus_low_6k X_E0_neg: O (truth M) out=1790 end_turn $0.103 | total $5.57
+step 3 R6_opus_low_6k X_G0_orig: K (truth K) out=1551 end_turn $0.100 | total $5.67
+step 3 R6_opus_low_6k X_G0_neg: O (truth O) out=1093 end_turn $0.091 | total $5.76
+step 3 R6_opus_low_6k X_A1_neg: F (truth E) out=1397 end_turn $0.096 | total $5.86
+step 3 R6_opus_low_6k X_B1_orig: B (truth B) out=741 end_turn $0.083 | total $5.94
+step 3 R6_opus_low_6k X_A1_orig: B (truth A) out=1795 end_turn $0.104 | total $6.04
+step 3 R6_opus_low_6k X_B1_neg: F (truth F) out=866 end_turn $0.086 | total $6.13
+step 3 R6_opus_low_6k X_E1_orig: I (truth I) out=1016 end_turn $0.088 | total $6.22
+step 3 R6_opus_low_6k X_D1_neg: H (truth H) out=1187 end_turn $0.092 | total $6.31
+step 3 R6_opus_low_6k X_D1_orig: D (truth D) out=1411 end_turn $0.097 | total $6.41
+step 3 R6_opus_low_6k X_E1_neg: M (truth M) out=995 end_turn $0.088 | total $6.49
+step 3 R6_opus_low_6k X_G1_orig: K (truth K) out=1155 end_turn $0.092 | total $6.59
+step 3 R6_opus_low_6k X_F1_neg: M (truth N) out=1272 end_turn $0.093 | total $6.68
+step 3 R6_opus_low_6k X_F1_orig: I (truth J) out=1459 end_turn $0.097 | total $6.78
+step 3 R6_opus_low_6k X_G1_neg: O (truth O) out=1792 end_turn $0.104 | total $6.88
+step 4 R6_opus_low_6k T0_H214_A_rs_noq: B (truth A) out=1865 end_turn $0.106 | total $6.99
+step 4 R6_opus_low_6k T0_H214_E_rs_noq: F (truth E) out=1978 end_turn $0.108 | total $7.09
+step 4 R6_opus_low_6k T0_H214_I_rs_noq: D (truth I) out=2192 end_turn $0.113 | total $7.21
+step 4 R6_opus_low_6k T0_H214_M_rs_noq: E (truth M) out=2447 end_turn $0.117 | total $7.32
+step 4 R6_opus_low_6k T1_H214_B_rs_noq: A (truth B) out=2202 end_turn $0.113 | total $7.44
+step 4 R6_opus_low_6k T1_H214_J_rs_noq: D (truth J) out=1657 end_turn $0.102 | total $7.54
+step 4 R6_opus_low_6k T1_H214_N_rs_noq: H (truth N) out=1988 end_turn $0.109 | total $7.65
+step 4 R6_opus_low_6k T1_H214_F_rs_noq: F (truth F) out=2817 end_turn $0.125 | total $7.77
+step 4 R6_opus_low_6k T2_H214_C_rs_noq: C (truth C) out=1183 end_turn $0.093 | total $7.87
+step 4 R6_opus_low_6k T2_H214_G_rs_noq: G (truth G) out=1420 end_turn $0.098 | total $7.96
+step 4 R6_opus_low_6k T3_H214_D_rs_noq: D (truth D) out=1479 end_turn $0.099 | total $8.06
+step 4 R6_opus_low_6k T2_H214_K_rs_noq: I (truth K) out=2829 end_turn $0.126 | total $8.19
+step 4 R6_opus_low_6k T3_H214_H_rs_noq: H (truth H) out=2090 end_turn $0.111 | total $8.30
+step 4 R6_opus_low_6k T2_H214_O_rs_noq: B (truth O) out=3280 end_turn $0.135 | total $8.44
+step 4 R6_opus_low_6k T3_H214_L_rs_noq: E (truth L) out=2679 end_turn $0.123 | total $8.56
+step 4 R6_opus_low_6k T3_H214_P_rs_noq: D (truth P) out=3980 end_turn $0.149 | total $8.71
+step 4 R6_opus_low_6k T4_H214_A_rs_noq: I (truth A) out=4120 end_turn $0.151 | total $8.86
+step 4 R6_opus_low_6k T4_H214_J_rs_noq: L (truth J) out=2253 end_turn $0.114 | total $8.97
+step 4 R6_opus_low_6k T4_H214_E_rs_noq: F (truth E) out=4278 end_turn $0.154 | total $9.13
+step 4 R6_opus_low_6k T4_H214_N_rs_noq: B (truth N) out=1757 end_turn $0.104 | total $9.23
+step 4 R6_opus_low_6k T5_H214_K_rs_noq: I (truth K) out=2015 end_turn $0.109 | total $9.34
+step 4 R6_opus_low_6k T5_H214_F_rs_noq: F (truth F) out=2136 end_turn $0.112 | total $9.45
+step 4 R6_opus_low_6k T5_H214_O_rs_noq: M (truth O) out=2045 end_turn $0.110 | total $9.56
+step 4 R6_opus_low_6k T5_H214_B_rs_noq: M (truth B) out=2888 end_turn $0.127 | total $9.69
+step 4 R6_opus_low_6k T6_H214_C_rs_noq: C (truth C) out=939 end_turn $0.087 | total $9.78
+step 4 R6_opus_low_6k T6_H214_G_rs_noq: G (truth G) out=1088 end_turn $0.090 | total $9.87
+step 4 R6_opus_low_6k T6_H214_L_rs_noq: M (truth L) out=1288 end_turn $0.094 | total $9.96
+step 4 R6_opus_low_6k T6_H214_P_rs_noq: I (truth P) out=2736 end_turn $0.123 | total $10.08
+step 4 R6_opus_low_6k T7_H214_H_rs_noq: H (truth H) out=2287 end_turn $0.115 | total $10.20
+step 4 R6_opus_low_6k T7_H214_D_rs_noq: D (truth D) out=3171 end_turn $0.133 | total $10.33
+step 4 R6_opus_low_6k T7_H214_I_rs_noq: I (truth I) out=2123 end_turn $0.112 | total $10.44
+step 4 R6_opus_low_6k T7_H214_M_rs_noq: M (truth M) out=1573 end_turn $0.101 | total $10.54
+step 4 R6_opus_low_6k T8_H214_A_rs_noq: A (truth A) out=1659 end_turn $0.102 | total $10.65
+step 4 R6_opus_low_6k T8_H214_E_rs_noq: H (truth E) out=1803 end_turn $0.105 | total $10.75
+step 4 R6_opus_low_6k T8_H214_I_rs_noq: I (truth I) out=2692 end_turn $0.123 | total $10.87
+step 4 R6_opus_low_6k T8_H214_M_rs_noq: M (truth M) out=2384 end_turn $0.116 | total $10.99
+step 4 R6_opus_low_6k T9_H214_B_rs_noq: B (truth B) out=1901 end_turn $0.107 | total $11.10
+step 4 R6_opus_low_6k T9_H214_J_rs_noq: A (truth J) out=2541 end_turn $0.120 | total $11.22
+step 4 R6_opus_low_6k T9_H214_F_rs_noq: F (truth F) out=3168 end_turn $0.132 | total $11.35
+step 4 R6_opus_low_6k T10_H214_C_rs_noq: C (truth C) out=2336 end_turn $0.116 | total $11.47
+step 4 R6_opus_low_6k T9_H214_N_rs_noq: N (truth N) out=2617 end_turn $0.121 | total $11.59
+step 4 R6_opus_low_6k T10_H214_G_rs_noq: B (truth G) out=2121 end_turn $0.112 | total $11.70
+step 4 R6_opus_low_6k T10_H214_K_rs_noq: K (truth K) out=1764 end_turn $0.104 | total $11.80
+step 4 R6_opus_low_6k T11_H214_D_rs_noq: D (truth D) out=2086 end_turn $0.111 | total $11.91
+step 4 R6_opus_low_6k T10_H214_O_rs_noq: F (truth O) out=2049 end_turn $0.110 | total $12.02
+step 4 R6_opus_low_6k T11_H214_H_rs_noq: H (truth H) out=1760 end_turn $0.104 | total $12.13
+step 4 R6_opus_low_6k T11_H214_L_rs_noq: L (truth L) out=2578 end_turn $0.120 | total $12.25
+step 4 R6_opus_low_6k T12_H214_E_rs_noq: E (truth E) out=1389 end_turn $0.096 | total $12.34
+step 4 R6_opus_low_6k T12_H214_A_rs_noq: I (truth A) out=2138 end_turn $0.111 | total $12.45
+step 4 R6_opus_low_6k T11_H214_P_rs_noq: P (truth P) out=3285 end_turn $0.134 | total $12.59
+step 4 R6_opus_low_6k T13_H214_B_rs_noq: B (truth B) out=1465 end_turn $0.098 | total $12.69
+step 4 R6_opus_low_6k T12_H214_J_rs_noq: I (truth J) out=1855 end_turn $0.106 | total $12.79
+step 4 R6_opus_low_6k T12_H214_N_rs_noq: O (truth N) out=2186 end_turn $0.112 | total $12.90
+step 4 R6_opus_low_6k T13_H214_F_rs_noq: F (truth F) out=2372 end_turn $0.116 | total $13.02
+step 4 R6_opus_low_6k T13_H214_K_rs_noq: I (truth K) out=2136 end_turn $0.111 | total $13.13
+step 4 R6_opus_low_6k T14_H214_G_rs_noq: H (truth G) out=1581 end_turn $0.101 | total $13.23
+step 4 R6_opus_low_6k T14_H214_C_rs_noq: C (truth C) out=1843 end_turn $0.106 | total $13.34
+step 4 R6_opus_low_6k T13_H214_O_rs_noq: O (truth O) out=4233 end_turn $0.153 | total $13.49
+step 4 R6_opus_low_6k T15_H214_D_rs_noq: D (truth D) out=1708 end_turn $0.103 | total $13.59
+step 4 R6_opus_low_6k T14_H214_L_rs_noq: O (truth L) out=2818 end_turn $0.125 | total $13.72
+step 4 R6_opus_low_6k T15_H214_I_rs_noq: D (truth I) out=1133 end_turn $0.092 | total $13.81
+step 4 R6_opus_low_6k T14_H214_P_rs_noq: P (truth P) out=3362 end_turn $0.136 | total $13.95
+step 4 R6_opus_low_6k T15_H214_M_rs_noq: M (truth M) out=2877 end_turn $0.126 | total $14.07
+step 4 R6_opus_low_6k T15_H214_H_rs_noq: H (truth H) out=4270 end_turn $0.154 | total $14.23
+
+=== Round 5: 148 calls, $14.23 spent ===
+G1 Sonnet medium: polarity right on MONO-CUE 22/24 (92%) vs cue-right monotone 46/46 (100%); drop +8%, one-sided Fisher p=0.1143; network permutation p=0.1092 (23 vs 12 networks)
+    MONO-CUE: pair (function ignoring polarity) 17/24 (71%), exact gate 15/24 (62%); wrong answers that are the right pair with flipped polarity 2/9; truncated 0; 'none' 0; mean output 1026
+    orig: polarity 12/12 (100%), exact 9/12 (75%)
+    neg: polarity 10/12 (83%), exact 6/12 (50%)
+    by function (polarity right / 4): A 3, B 3, D 4, I 4, J 4, K 4
+G1 Sonnet medium verdict: COMPUTES MONOTONE POLARITY; the shortcut is XOR/parity-specific
+G2 Opus low: polarity right on MONO-CUE 24/24 (100%) vs cue-right monotone 34/34 (100%); drop +0%, one-sided Fisher p=1.0000; network permutation p=1.0000 (17 vs 12 networks)
+    MONO-CUE: pair (function ignoring polarity) 19/24 (79%), exact gate 19/24 (79%); wrong answers that are the right pair with flipped polarity 0/5; truncated 0; 'none' 0; mean output 1471
+    orig: polarity 12/12 (100%), exact 10/12 (83%)
+    neg: polarity 12/12 (100%), exact 9/12 (75%)
+    by function (polarity right / 4): A 4, B 4, D 4, I 4, J 4, K 4
+G2 Opus low verdict: COMPUTES MONOTONE POLARITY; the shortcut is XOR/parity-specific
+    Opus on all 36 NEG-214 monotone stimuli: polarity 36/36 (100%), exact 25/36 (69%); the 2 with the cue pointing the wrong way: polarity 2/2
+
+G3 Opus low, forced choice (no Q) (16 trunks): exact 33/64 (52%); mean per-trunk accuracy 52% (90% bootstrap CI [39%, 64%]); sign-flip vs the 25% ceiling p=0.0040; truncated 0
+    input group 50/64 (78%) (chance 50%); pair given group 33/50 (66%) (chance 25%); polarity given pair 33/33 (100%); mean output 2295 tokens
+    exploratory: sign-flip vs 12.5% (perfect polarity, nothing else) p=0.0002; answered Q anyway 0
+G3 verdict: OPUS DECODES READOUTS UNDER FORCED CHOICE
+  For comparison, the original F4a (round 4, Q allowed):
+    F4a Opus low, with Q (16 trunks): exact 21/64 (33%); mean per-trunk accuracy 33% (90% bootstrap CI [22%, 44%]); sign-flip vs the 25% ceiling p=0.2041; truncated 2
+    input group 42/64 (66%) (chance 50%); pair given group 21/42 (50%) (chance 25%); polarity given pair 21/21 (100%); mean output 2136 tokens
+    Same readouts, with Q vs forced choice: right 21/64 vs 33/64; on the 15 readouts answered Q in round 4, forced choice right 7/15; on the rest 21 vs 26
+Model IDs returned: ['claude-opus-5-5', 'claude-sonnet-5-5']
+exit 0

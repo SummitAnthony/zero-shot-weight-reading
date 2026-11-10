@@ -1,0 +1,12 @@
+# API key - never commit
+.env
+
+# Python and build output
+__pycache__/
+*.pyc
+.pytest_cache/
+paper/*.aux
+paper/*.log
+paper/*.out
+paper/*.blg
+paper/*.pdf

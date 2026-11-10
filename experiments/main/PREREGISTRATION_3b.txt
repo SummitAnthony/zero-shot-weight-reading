@@ -1,0 +1,11 @@
+Round 3b pre-registration record (written after round 3's results, before the first round-3b API call)
+UTC: 2026-11-05T00:23:47Z
+Tests: 17 passed in 2.34s
+Round-3b results file present: no
+SHA-256:
+ae1a755202b25520e5588d5f55f11230ba8bf4d4a2ea30e8428908e019498e85 *PLAN_3b.md
+d232118a39cb4c30108522268f9d420fa619109f5d11ae425ef12419acfc2399 *make_round3b.py
+da6d44a4d68ca7b5107cce0d362804e6e43f995990c9019f0b7c739ccc94e21d *run_round3b.py
+7a3715bca252007933f6bac549f37643a6988e2f54d52b35cf8ca31221216a83 *test_round3b.py
+b1a5865b19e1fd100914d0c756a4f2b08d5cc649518f1cd3ab04a56a68be9bf9 *stimuli_round3b.jsonl
+95cd2453f444c8bb006ba2d44b6279e428d49ddc880e818d3b4ff7f0b4b0bed5 *results_round3.jsonl

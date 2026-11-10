@@ -1,0 +1,40 @@
+32 calls planned, 32 to go. Spent $0.00. Worst case for what is left $6.00; cap $3.74.
+step 1 R4c_opus_low_6k T0_H214_E: F (truth E) out=1812 end_turn $0.100 | total $0.10
+step 1 R4c_opus_low_6k T0_H214_A: B (truth A) out=2180 end_turn $0.107 | total $0.21
+step 1 R4c_opus_low_6k T0_H214_I: I (truth I) out=1485 end_turn $0.093 | total $0.30
+step 1 R4c_opus_low_6k T0_H214_M: G (truth M) out=1748 end_turn $0.098 | total $0.40
+step 2 R4c_opus_low_6k T1_H214_F: Q (truth F) out=2197 end_turn $0.108 | total $0.51
+step 2 R4c_opus_low_6k T1_H214_B: B (truth B) out=2907 end_turn $0.122 | total $0.63
+step 2 R4c_opus_low_6k T1_H214_J: I (truth J) out=1362 end_turn $0.092 | total $0.72
+step 2 R4c_opus_low_6k T1_H214_N: O (truth N) out=2104 end_turn $0.106 | total $0.83
+step 3 R4c_opus_low_6k T2_H214_G: A (truth G) out=1427 end_turn $0.093 | total $0.92
+step 3 R4c_opus_low_6k T2_H214_C: C (truth C) out=1999 end_turn $0.104 | total $1.02
+step 3 R4c_opus_low_6k T2_H214_K: I (truth K) out=1123 end_turn $0.086 | total $1.11
+step 3 R4c_opus_low_6k T2_H214_O: M (truth O) out=1504 end_turn $0.094 | total $1.20
+step 4 R4c_opus_low_6k T3_H214_H: H (truth H) out=1187 end_turn $0.088 | total $1.29
+step 4 R4c_opus_low_6k T3_H214_D: Q (truth D) out=1683 end_turn $0.098 | total $1.39
+step 4 R4c_opus_low_6k T3_H214_L: M (truth L) out=1836 end_turn $0.101 | total $1.49
+step 4 R4c_opus_low_6k T3_H214_P: I (truth P) out=1624 end_turn $0.097 | total $1.59
+step 5 R4c_opus_low_6k T4_H214_A: Q (truth A) out=626 end_turn $0.076 | total $1.66
+step 5 R4c_opus_low_6k T4_H214_E: Q (truth E) out=1784 end_turn $0.099 | total $1.76
+step 5 R4c_opus_low_6k T4_H214_J: I (truth J) out=1786 end_turn $0.100 | total $1.86
+step 5 R4c_opus_low_6k T4_H214_N: M (truth N) out=1672 end_turn $0.097 | total $1.96
+step 6 R4c_opus_low_6k T5_H214_B: B (truth B) out=868 end_turn $0.081 | total $2.04
+step 6 R4c_opus_low_6k T5_H214_F: F (truth F) out=1349 end_turn $0.091 | total $2.13
+step 6 R4c_opus_low_6k T5_H214_O: Q (truth O) out=2614 end_turn $0.116 | total $2.25
+step 6 R4c_opus_low_6k T5_H214_K: I (truth K) out=4333 end_turn $0.151 | total $2.40
+step 7 R4c_opus_low_6k T6_H214_C: C (truth C) out=1120 end_turn $0.086 | total $2.49
+step 7 R4c_opus_low_6k T6_H214_G: G (truth G) out=1182 end_turn $0.087 | total $2.57
+step 7 R4c_opus_low_6k T6_H214_L: O (truth L) out=1188 end_turn $0.088 | total $2.66
+step 7 R4c_opus_low_6k T6_H214_P: I (truth P) out=1471 end_turn $0.093 | total $2.75
+step 8 R4c_opus_low_6k T7_H214_D: D (truth D) out=1047 end_turn $0.086 | total $2.84
+step 8 R4c_opus_low_6k T7_H214_H: Q (truth H) out=1171 end_turn $0.088 | total $2.93
+step 8 R4c_opus_low_6k T7_H214_M: Q (truth M) out=1102 end_turn $0.086 | total $3.01
+step 8 R4c_opus_low_6k T7_H214_I: I (truth I) out=1544 end_turn $0.096 | total $3.11
+
+=== Round 3c: 32 calls, $3.11 spent ===
+E4 (Opus low, 8 complete trunks x 4): exact 10/32 (31%); per trunk 25%, 25%, 25%, 25%, 0%, 50%, 50%, 50%; sign-flip test over trunks p=0.3125; truncated 0
+    input group right 24/32 (75%) (chance 50%); pair right given group 10/24 (42%) (chance 25%); polarity right given pair 10/10 (100%); mean output 1657 tokens, $0.097 per call
+E4 verdict: NO EVIDENCE Opus reads the output layer when the first layer can't tell
+    Sonnet (medium) on the same stimuli: exact 8/32 (25%)
+exit 0

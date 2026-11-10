@@ -1,0 +1,9 @@
+Round 4 pre-registration record (after rounds 3-3c, before the first round-4 API call)
+UTC: 2026-11-05T01:04:22Z
+Tests: 24 passed in 3.30s
+Round-4 results file present: no
+0d378e88fa07343a6ead323d852c9431bc82b39f67fd8862a77c99f47bd5db97 *PLAN_4.md
+99f28be91384c338d473071278d675e7e1ac80c137867e2715a38c65e5a3d7ed *make_round4.py
+946fe09caafb4b181d67cb467b1a03c73905ba2c5b649dc44806b50a7f8ad442 *run_round4.py
+7bc9d4979040ebc376205c44c250344cfdc8c54995a72fd4a1957b7702dd9a76 *test_round4.py
+8d8016d4b1c057aa69023ee4eb76353df2f571ec558d08e2a068ecb81e65ac60 *stimuli_round4.jsonl

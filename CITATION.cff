@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Code and data for: Circuits or Shortcuts? What Language Models Read in Raw Neural Network Weights"
+type: software
+authors:
+  - family-names: Gomes
+    given-names: Sumit Anthony
+    affiliation: BRAC University
+    email: sumit.anthony.gomes@g.bracu.ac.bd
+repository-code: "https://github.com/SummitAnthony/zero-shot-weight-reading"
+license:
+  - MIT
+  - CC-BY-4.0
+date-released: 2026-11-10
+keywords:
+  - interpretability
+  - language models
+  - neural network weights
+  - weight-space learning
+  - pre-registration
+preferred-citation:
+  type: article
+  status: preprint
+  title: "Circuits or Shortcuts? What Language Models Read in Raw Neural Network Weights"
+  authors:
+    - family-names: Gomes
+      given-names: Sumit Anthony
+      affiliation: BRAC University
+  year: 2026
+  url: "https://github.com/SummitAnthony/zero-shot-weight-reading"

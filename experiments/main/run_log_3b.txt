@@ -1,0 +1,78 @@
+66 calls planned, 66 to go. Spent $0.00. Worst case for what is left $8.82; cap $7.90.
+step 1 R1_sonnet_medium_6k CUE2_C0_rev_neg: G (truth G) out=1068 end_turn $0.044 | total $0.04
+step 1 R1_sonnet_medium_6k CUE2_C1_rev_orig: G (truth C) out=1148 end_turn $0.045 | total $0.09
+step 1 R1_sonnet_medium_6k CUE2_C1_rev_neg: A (truth G) out=1479 end_turn $0.048 | total $0.14
+step 1 R1_sonnet_medium_6k CUE2_C2_rev_orig: C (truth C) out=855 end_turn $0.042 | total $0.18
+step 1 R1_sonnet_medium_6k CUE2_C2_rev_neg: Q (truth G) out=1203 end_turn $0.045 | total $0.22
+step 1 R1_sonnet_medium_6k CUE2_C0_norm_neg: B (truth G) out=902 end_turn $0.042 | total $0.27
+step 1 R1_sonnet_medium_6k CUE2_C1_norm_orig: Q (truth C) out=1558 end_turn $0.049 | total $0.32
+step 1 R1_sonnet_medium_6k CUE2_C1_norm_neg: F (truth G) out=970 end_turn $0.043 | total $0.36
+step 1 R1_sonnet_medium_6k CUE2_C0_norm_orig: C (truth C) out=3807 end_turn $0.071 | total $0.43
+step 1 R1_sonnet_medium_6k CUE2_C0_rev_orig: C (truth C) out=5823 end_turn $0.091 | total $0.52
+step 1 R1_sonnet_medium_6k CUE2_C2_norm_orig: D (truth C) out=1091 end_turn $0.044 | total $0.57
+step 1 R1_sonnet_medium_6k CUE2_C2_norm_neg: H (truth G) out=801 end_turn $0.041 | total $0.61
+step 1 R1_sonnet_medium_6k CUE2_L0_rev_neg: P (truth P) out=969 end_turn $0.043 | total $0.65
+step 1 R1_sonnet_medium_6k CUE2_L0_rev_orig: Q (truth L) out=1295 end_turn $0.046 | total $0.70
+step 1 R1_sonnet_medium_6k CUE2_L1_rev_orig: K (truth L) out=659 end_turn $0.039 | total $0.74
+step 1 R1_sonnet_medium_6k CUE2_L1_rev_neg: L (truth P) out=934 end_turn $0.042 | total $0.78
+step 1 R1_sonnet_medium_6k CUE2_L2_rev_orig: L (truth L) out=905 end_turn $0.042 | total $0.82
+step 1 R1_sonnet_medium_6k CUE2_L0_norm_orig: P (truth L) out=733 end_turn $0.040 | total $0.86
+step 1 R1_sonnet_medium_6k CUE2_L2_rev_neg: K (truth P) out=1262 end_turn $0.046 | total $0.90
+step 1 R1_sonnet_medium_6k CUE2_L1_norm_neg: O (truth P) out=645 end_turn $0.039 | total $0.94
+step 1 R1_sonnet_medium_6k CUE2_L2_norm_orig: K (truth L) out=1067 end_turn $0.044 | total $0.99
+step 1 R1_sonnet_medium_6k CUE2_L2_norm_neg: O (truth P) out=1171 end_turn $0.045 | total $1.03
+step 1 R1_sonnet_medium_6k CUE2_L0_norm_neg: None (truth P) out=6000 max_tokens $0.093 | total $1.13
+step 1 R1_sonnet_medium_6k CUE2_L1_norm_orig: None (truth L) out=6000 max_tokens $0.093 | total $1.22
+step 2 R3_sonnet_medium_6k_warned CUE_C0_rev_orig: E (truth C) out=1232 end_turn $0.046 | total $1.26
+step 2 R3_sonnet_medium_6k_warned CUE_C1_rev_neg: H (truth G) out=1578 end_turn $0.050 | total $1.31
+step 2 R3_sonnet_medium_6k_warned CUE_C0_rev_neg: H (truth G) out=1397 end_turn $0.048 | total $1.36
+step 2 R3_sonnet_medium_6k_warned CUE_C2_rev_orig: B (truth C) out=870 end_turn $0.042 | total $1.40
+step 2 R3_sonnet_medium_6k_warned CUE_C2_rev_neg: B (truth G) out=805 end_turn $0.042 | total $1.44
+step 2 R3_sonnet_medium_6k_warned CUE_L0_rev_orig: N (truth L) out=907 end_turn $0.042 | total $1.49
+step 2 R3_sonnet_medium_6k_warned CUE_L1_rev_orig: O (truth L) out=904 end_turn $0.042 | total $1.53
+step 2 R3_sonnet_medium_6k_warned CUE_L0_rev_neg: L (truth P) out=916 end_turn $0.042 | total $1.57
+step 2 R3_sonnet_medium_6k_warned CUE_L1_rev_neg: O (truth P) out=1244 end_turn $0.045 | total $1.62
+step 2 R3_sonnet_medium_6k_warned CUE_L2_rev_neg: K (truth P) out=744 end_turn $0.040 | total $1.66
+step 2 R3_sonnet_medium_6k_warned CUE_C1_rev_orig: None (truth C) out=6000 max_tokens $0.094 | total $1.75
+step 2 R3_sonnet_medium_6k_warned CUE_L2_rev_orig: K (truth L) out=1069 end_turn $0.044 | total $1.79
+step 2 R3_sonnet_medium_6k_warned CUE2_C0_rev_orig: C (truth C) out=1184 end_turn $0.045 | total $1.84
+step 2 R3_sonnet_medium_6k_warned CUE2_C1_rev_orig: D (truth C) out=806 end_turn $0.041 | total $1.88
+step 2 R3_sonnet_medium_6k_warned CUE2_C1_rev_neg: A (truth G) out=1034 end_turn $0.044 | total $1.92
+step 2 R3_sonnet_medium_6k_warned CUE2_C2_rev_orig: C (truth C) out=1008 end_turn $0.044 | total $1.97
+step 2 R3_sonnet_medium_6k_warned CUE2_C2_rev_neg: C (truth G) out=834 end_turn $0.042 | total $2.01
+step 2 R3_sonnet_medium_6k_warned CUE2_L0_rev_orig: Q (truth L) out=1162 end_turn $0.045 | total $2.05
+step 2 R3_sonnet_medium_6k_warned CUE2_L1_rev_orig: P (truth L) out=693 end_turn $0.039 | total $2.09
+step 2 R3_sonnet_medium_6k_warned CUE2_L0_rev_neg: Q (truth P) out=1160 end_turn $0.045 | total $2.14
+step 2 R3_sonnet_medium_6k_warned CUE2_L2_rev_orig: P (truth L) out=659 end_turn $0.040 | total $2.18
+step 2 R3_sonnet_medium_6k_warned CUE2_L1_rev_neg: N (truth P) out=1270 end_turn $0.045 | total $2.22
+step 2 R3_sonnet_medium_6k_warned CUE2_L2_rev_neg: Q (truth P) out=928 end_turn $0.042 | total $2.27
+step 2 R3_sonnet_medium_6k_warned CUE2_C0_rev_neg: None (truth G) out=6000 max_tokens $0.093 | total $2.36
+step 3 R4b_opus_low_8k P2_C_H214_neg: G (truth G) out=757 end_turn $0.082 | total $2.44
+step 3 R4b_opus_low_8k P2_C_H214_orig: C (truth C) out=980 end_turn $0.087 | total $2.53
+step 3 R4b_opus_low_8k P2_H_H214_orig: L (truth L) out=1561 end_turn $0.097 | total $2.62
+step 3 R4b_opus_low_8k P2_H_H214_neg: P (truth P) out=1714 end_turn $0.100 | total $2.72
+step 3 R4b_opus_low_8k X_C1_orig: C (truth C) out=1384 end_turn $0.095 | total $2.82
+step 3 R4b_opus_low_8k X_C1_neg: G (truth G) out=1330 end_turn $0.094 | total $2.91
+step 3 R4b_opus_low_8k CUE_C0_rev_orig: C (truth C) out=1797 end_turn $0.103 | total $3.02
+step 3 R4b_opus_low_8k CUE_C1_rev_orig: C (truth C) out=2036 end_turn $0.108 | total $3.12
+step 3 R4b_opus_low_8k CUE_C1_rev_neg: G (truth G) out=2099 end_turn $0.109 | total $3.23
+step 3 R4b_opus_low_8k CUE_C0_rev_neg: G (truth G) out=3664 end_turn $0.141 | total $3.37
+step 3 R4b_opus_low_8k CUE_C2_rev_orig: C (truth C) out=1766 end_turn $0.102 | total $3.48
+step 3 R4b_opus_low_8k CUE_L0_rev_orig: K (truth L) out=1340 end_turn $0.092 | total $3.57
+step 3 R4b_opus_low_8k CUE_L1_rev_orig: L (truth L) out=1112 end_turn $0.088 | total $3.66
+step 3 R4b_opus_low_8k CUE_L0_rev_neg: P (truth P) out=1709 end_turn $0.100 | total $3.76
+step 3 R4b_opus_low_8k CUE_C2_rev_neg: G (truth G) out=2671 end_turn $0.120 | total $3.88
+step 3 R4b_opus_low_8k CUE_L1_rev_neg: Q (truth P) out=1537 end_turn $0.096 | total $3.97
+step 3 R4b_opus_low_8k CUE_L2_rev_orig: L (truth L) out=1763 end_turn $0.101 | total $4.07
+step 3 R4b_opus_low_8k CUE_L2_rev_neg: O (truth P) out=1468 end_turn $0.095 | total $4.17
+
+=== Round 3b: 66 calls, $4.17 spent (round 3 + 3b: $16.26) ===
+E1 (Sonnet, CUE2-214 only: new networks): polarity right 7/12 when the bias cue points the right way vs 6/12 the wrong way (6 vs 6 networks); gap +8%; exact permutation over networks p=0.5000
+E1 verdict: NOT REPLICATED
+    Pooled (Sonnet, every XOR/parity original/negated network): polarity right 18/30 when the bias cue points the right way vs 11/30 the wrong way (15 vs 15 networks); gap +23%; exact permutation over networks p=0.0489
+
+E2 (Sonnet, 30 cue-wrong XOR/parity stimuli): polarity right unwarned 11/30 (37%), warned 13/30 (43%); gain +7% (90% CI [-13%, +26%]); exact right unwarned 7, warned 5
+E2 verdict: INCONCLUSIVE
+
+E3 (Opus, low effort, 18 cue-wrong stimuli): truncated 0/18; polarity right 17/18 (94%), follows the cue 0/17 real answers; exact 15/18; mean output 1705 tokens. Sonnet on the same stimuli: polarity right 5/18 (28%)
+exit 0

@@ -1,0 +1,14 @@
+Round 5 pre-registration record (after round 4, before the first round-5 API call)
+UTC: 2026-11-05T03:06:26Z
+Tests: 34 passed in 6.47s
+Round-5 results file present: no
+Hard cap: $15.00 (BUDGET_5 in run_round5.py)
+c5db5f20d4e4c192e59b80ab6cacacbbb5f508bfe2c10f22600c14a0ec8c53c1 *PLAN_5.md
+dad1de61e91df05fbb8bd3c768760d24eed196814bcaeaa992a7e83f9f8f37aa *make_round5.py
+7ac72ac10f50b673156c7a4787bdf90f97160a5037005d40ae5b64bc46172057 *run_round5.py
+71898c10cb70e1176816d18ec8d5a12ee426a6cb25164b5bd4acf26dd5b45bd8 *test_round5.py
+fef20567babd282f3a22a659dc1a1335b70dfc4905b123d96956b1b697f02f23 *stimuli_round5.jsonl
+Unchanged dependencies (as committed in earlier rounds):
+355842525de0043f997b30816022564576a5599f3cac9b985da33a1fa1a2774d *make_round3.py
+a682c7a24a6c8f1a6e2f1cd74cffabedf534f184ce0c850c40a172344f7327fd *run_round3.py
+946fe09caafb4b181d67cb467b1a03c73905ba2c5b649dc44806b50a7f8ad442 *run_round4.py
